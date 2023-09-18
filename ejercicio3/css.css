@@ -1,0 +1,28 @@
+h1{
+    color:black;
+}
+
+h2{
+    color: white;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.cuadroTodo{
+    text-align: center;
+    width:900px;
+    border: solid blanchedalmond;
+    background-color: blanchedalmond;
+}
+
+.cuadroRetiro{
+    width:900px;
+    border: solid salmon;
+    background-color: salmon;
+}
+
+@media(max-width:768px;){
+    
+}
